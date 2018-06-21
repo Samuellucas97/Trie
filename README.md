@@ -1,4 +1,4 @@
-# Tries
+# Trie
 Implementação em Java da árvore digital trie.
 
 ## Autor :smile:
