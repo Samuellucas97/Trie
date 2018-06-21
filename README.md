@@ -1,6 +1,5 @@
 # Trie
-Implementação em Java da árvore digital (***trie***).
-
+Neste repositório é implementado o container denominado _árvore digital_ (***trie***) em Java.
 
 ## :page_facing_up: O que é uma Trie?
 Uma Trie, ou árvore digital, é um tipo de árvore usado para implementar Tabela de Símbolos de strings. Ao contrário de uma árvore de busca binária, **nenhum nó nessa árvore armazena a chave associada a ele**; ao invés disso, ela é determinada pela sua posição na árvore.  
