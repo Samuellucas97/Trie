@@ -9,7 +9,7 @@ Uma Trie, ou árvore digital, é um tipo de árvore usado para implementar Tabel
 <img src="https://www.ime.usp.br/~pf/estruturas-de-dados/aulas/figuressw/Chapter5/TrieRepNew.png" width="60%"  />
 </p>
   
-Obs.: Árvore trie pode substituir uma tabela hash.` [Wikipedia]
+*Obs.: Árvore trie pode substituir uma tabela hash.* [Wikipedia]
 
 [Wikipedia]:https://pt.wikipedia.org/wiki/Trie
 
