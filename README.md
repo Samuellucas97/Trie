@@ -19,7 +19,7 @@ Uma Trie, ou árvore digital, é um tipo de árvore usado para implementar Tabel
 <img src="https://cdn-images-1.medium.com/max/982/1*AiTBjfsoj3emarTpaeNgKQ.png" width="14%"  />
 </p>
 
-[https://junit.org/junit5/]
+:link:[https://junit.org/junit5/]
 
 [https://junit.org/junit5/]: https://junit.org/junit5/
 
