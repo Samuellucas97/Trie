@@ -1,5 +1,5 @@
 # Trie
-Implementação em Java da árvore digital trie.
+Implementação em Java da árvore digital (***trie***).
 
 
 ## :page_facing_up: O que é uma Trie?
